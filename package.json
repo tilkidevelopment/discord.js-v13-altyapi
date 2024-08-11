@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^13.17.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "rss-parser": "^3.13.0"
+  }
+}
