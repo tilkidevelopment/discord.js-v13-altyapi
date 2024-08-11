@@ -1,4 +1,3 @@
-// commands/transfer.js
 const { MessageEmbed } = require('discord.js');
 const { readData, writeData } = require('../../db.js');
 
