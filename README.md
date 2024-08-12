@@ -25,7 +25,6 @@ Komutlar klasör'ü ayrı ayrı kategorilere ayırılmıştır ve otomatik olara
 
 <br>
 Eğer kodda veya başka sıkıntı olursa ekibimizle iltibata geçin <b><a href="https://tilki.dev/discord">tilki.dev</a></b><br><br>
-[Replit (Yakında)](https://replit.com/@tilkidevelopment) / [Youtube Paket Kurulum Video (Yakında)](https://tilki.dev/)<br><br> 
 Not: <b>Bu projeye emek verdim bir star atarmısın lütfen, Teşekkürler!
 <br><br>
 <b>Eğer kuramadıysanız [discord](https://tilki.dev/discord) ile bizle iletişime geçiniz!</b>
